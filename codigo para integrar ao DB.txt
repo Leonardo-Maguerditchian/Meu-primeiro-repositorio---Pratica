@@ -1,1 +1,2 @@
 a partir desde codigo iremos integrar o site ao DB
+correção de codigo apos recusa no QA
